@@ -6,3 +6,7 @@
 --Hello друзья from OutputStreamWriter--
 --Hello друзья from BufferedOutputStreamWriter--
 --Hello друзья from FILEUTILS--
+--Hello друзья from FileWriter-- 
+--Hello друзья from OutputStreamWriter--
+--Hello друзья from BufferedOutputStreamWriter--
+--Hello друзья from FILEUTILS--
